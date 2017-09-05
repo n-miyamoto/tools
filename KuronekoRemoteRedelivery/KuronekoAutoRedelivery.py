@@ -169,3 +169,5 @@ url = driver.current_url
 
 if(url == SUCCESS_URL):
 	print("Redelivary successed!!!")
+else:
+	print("Failed!!!")
